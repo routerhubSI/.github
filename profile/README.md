@@ -25,6 +25,7 @@
 
 | Resource | What it covers |
 |---|---|
+| **[uncensored-ai-api](https://github.com/routerhubSI/uncensored-ai-api)** | Uncensored AI API or model access — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen. |
 | **[API quickstart](https://routerhub.si/quickstart.md)** | One key for GPT, Claude, Gemini, Grok, DeepSeek, GLM and Qwen — API protocols, setup and pricing. |
 | **[glm-5.3-abliterated](https://github.com/routerhubSI/glm-5.3-abliterated)** | GLM 5.3 abliterated and uncensored models, 35 jailbreak prompts, model comparisons and API setup. |
 | **[Jailbreak collection](https://github.com/routerhubSI/glm-5.3-abliterated/tree/main/jailbreaks)** | 35 bundled system prompts and agent instruction files for AI research. |
@@ -40,7 +41,7 @@
 
 ## Quick links
 
-[Get an API key](https://routerhub.si/register?next=onboarding&utm_source=github&utm_medium=org&utm_campaign=routerhub) · [Telegram](https://t.me/routerhubsi) · [API quickstart](https://routerhub.si/quickstart.md) · [GLM 5.3 abliterated guide](https://github.com/routerhubSI/glm-5.3-abliterated)
+[Get an API key](https://routerhub.si/register?next=onboarding&utm_source=github&utm_medium=org&utm_campaign=routerhub) · [Telegram](https://t.me/routerhubsi) · [Uncensored AI API guide](https://github.com/routerhubSI/uncensored-ai-api) · [API quickstart](https://routerhub.si/quickstart.md) · [GLM 5.3 abliterated guide](https://github.com/routerhubSI/glm-5.3-abliterated)
 
 ---
 
